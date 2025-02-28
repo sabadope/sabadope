@@ -1,11 +1,14 @@
-#Title
+#Title:  
+
 App for Teacher-Parent update student performance.
 
-#Members
+#Members:  
+
 Sabado, Fertony Jr.
 Torres, Kyla Marie
 Olaso, Kieran Jays 
 Custodio, Andrei
 
-#Features
+#Features:  
+
 - To be announced!
